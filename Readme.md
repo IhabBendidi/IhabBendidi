@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ihab Bendidi</h1>
-<h3 align="center">A wannabe genius (I wish) in Deep learning</h3>
+<h3 align="center">An artificial intelligence researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihabbendidi&label=Profile%20views&color=0e75b6&style=flat" alt="ihabbendidi" /> </p>
 
