@@ -7,15 +7,7 @@
 
 - 🔭 I’m currently working on **Research in deep learning**
 
-- 🌱 I’m currently learning **mostly math theory of deep learning to improve upon it**
-
-- 👯 I’m looking to collaborate on **projects, & writing papers**
-
-- 💬 Ask me about **anything about data science**
-
 - 📫 How to reach me **bendidiihab@gmail.com**
-
-- ⚡ Fun fact **I'm very good at cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
