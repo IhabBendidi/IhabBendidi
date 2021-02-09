@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Research in deep learning**
+- 🔭 I’m currently working on **Research in deep learning and computational biology**
 
 - 📫 How to reach me **bendidiihab@gmail.com**
 
